@@ -1,0 +1,10 @@
+build:
+  info: 1.0.0_qa
+accounts:
+  message: "Welcome to Eazybank Accounts QA API"
+  contactDetails:
+    name: "Max QA Lead"
+    email: "max@gmail.com"
+  onCallSupport:
+    - +512345678
+    - +714567890

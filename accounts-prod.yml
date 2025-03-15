@@ -1,0 +1,10 @@
+build:
+  info: 1.0.0_prod
+accounts:
+  message: "Welcome to Eazybank Accounts PROD API"
+  contactDetails:
+    name: "Surgey"
+    email: "surgey@gmail.com"
+  onCallSupport:
+    - +623456789
+    - +345678904
