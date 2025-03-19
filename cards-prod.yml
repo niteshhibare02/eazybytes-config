@@ -1,7 +1,7 @@
 build:
   info: 1.0_prod
 cards:
-  message: "Welcome to EazyBank cards related webhook APIs "
+  message: "Welcome to EazyBank cards related PROD APIs "
   contactDetails:
     name: "Leah - Product Owner"
     email: "leah@eazybank.com"
