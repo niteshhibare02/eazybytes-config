@@ -1,7 +1,7 @@
 build:
   info: 1.0_qa
 cards:
-  message: "Welcome to EazyBank cards related QA APIs "
+  message: "Welcome to EazyBank cards related QA(webhook test by spring cloud bus) APIs "
   contactDetails:
     name: "Raj Lech - QA Lead"
     email: "raj@eazybank.com"
