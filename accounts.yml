@@ -1,7 +1,7 @@
 build:
   info: 1.0.0
 accounts:
-  message: "Welcome to Eazybank Accounts docker API"
+  message: "Welcome to Eazybank Accounts API"
   contactDetails:
     name: "John P"
     email: "john.p@gmail.com"
