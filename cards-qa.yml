@@ -1,0 +1,10 @@
+build:
+  info: 1.0_qa
+cards:
+  message: "Welcome to EazyBank cards related QA APIs"
+  contactDetails:
+    name: "Raj Lech - QA Lead"
+    email: "raj@eazybank.com"
+  onCallSupport:
+    - (512) 419-3492
+    - (515) 382-1931

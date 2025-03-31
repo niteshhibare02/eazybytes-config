@@ -1,0 +1,10 @@
+build:
+  info: 1.0
+loans:
+  message: "Welcome to EazyBank loans related PROD APIs "
+  contactDetails:
+    name: "Georgiv - Product Owner"
+    email: "georgiv@eazybank.com"
+  onCallSupport:
+    - "{cipher}31fbe80c40a7d310f12897fbc8678b64da53e2db7d3b910f360047fe39bee9fd"
+    - (446) 764-8932

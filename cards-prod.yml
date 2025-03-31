@@ -1,0 +1,10 @@
+build:
+  info: 1.0_prod
+cards:
+  message: "Welcome to EazyBank cards related PROD APIs "
+  contactDetails:
+    name: "Leah - Product Owner"
+    email: "leah@eazybank.com"
+  onCallSupport:
+    - (712) 419-3496
+    - (815) 382-1937
